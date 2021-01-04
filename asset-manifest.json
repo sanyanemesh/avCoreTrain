@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/avCoreTrain/static/css/main.0bfda808.chunk.css",
+    "main.js": "/avCoreTrain/static/js/main.020cc6c3.chunk.js",
+    "main.js.map": "/avCoreTrain/static/js/main.020cc6c3.chunk.js.map",
+    "runtime-main.js": "/avCoreTrain/static/js/runtime-main.b6cb99a2.js",
+    "runtime-main.js.map": "/avCoreTrain/static/js/runtime-main.b6cb99a2.js.map",
+    "static/js/2.6b7e1b10.chunk.js": "/avCoreTrain/static/js/2.6b7e1b10.chunk.js",
+    "static/js/2.6b7e1b10.chunk.js.map": "/avCoreTrain/static/js/2.6b7e1b10.chunk.js.map",
+    "index.html": "/avCoreTrain/index.html",
+    "static/css/main.0bfda808.chunk.css.map": "/avCoreTrain/static/css/main.0bfda808.chunk.css.map",
+    "static/js/2.6b7e1b10.chunk.js.LICENSE.txt": "/avCoreTrain/static/js/2.6b7e1b10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6cb99a2.js",
+    "static/js/2.6b7e1b10.chunk.js",
+    "static/css/main.0bfda808.chunk.css",
+    "static/js/main.020cc6c3.chunk.js"
+  ]
+}
